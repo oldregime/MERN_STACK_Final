@@ -83,14 +83,11 @@ To run the projects locally, follow these steps:
 
 ## Dependencies
 
--   `express`: "^4.18.2"
--   `react`: "^18.2.0"
--   `react-dom`: "^18.2.0"
--   `react-router-dom`: "^6.14.2"
--   `tailwindcss`: "^3.3.0"
--   `cors`: "^2.8.5"
--   `nodemon`: "^3.0.1"
+-   `express`: "4.18.2"
+-   `react`: "18.2.0"
+-   `react-dom`: "18.2.0"
+-   `react-router-dom`: "6.14.2"
+-   `tailwindcss`: "3.3.0"
+-   `cors`: "2.8.5"
+-   `nodemon`: "3.0.1"
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
